@@ -3,6 +3,6 @@
 using LinkedList;
 
 NodeOperation node = new NodeOperation();
-node.Insert(2);
-node.Insert(7);
-node.print();
+node.InsertAtLast(2);
+node.InsertAtLast(7);
+node.Print();

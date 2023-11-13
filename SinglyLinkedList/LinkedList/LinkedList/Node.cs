@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,47 +8,81 @@ namespace LinkedList
 {
     public class Node
     {
-        public int Value { get; set; }
-        public Node Next { get; set; }
+        public int Value;
+        public Node Next;
     }
-
 
     public class NodeOperation
     {
-        Node head = new Node() 
-        {
-            Value = 1,
-            Next = null
-        };
-        Node current;
+        Node head = null;
 
-        public NodeOperation()
+        public bool IsNull() 
         {
-            current = head;
-            head.Next = current;
-        }
-
-        public void Insert(int value)
-        {
-            Node x = new Node() { Value = value };
-            current.Next = x;
-            current = x;
-        }
-
-        public void print()
-        {
-            for (Node i = head; i != current.Next;)
+            if (head == null) 
             {
-                Console.WriteLine(i.Value);
-                i = i.Next;
+                return true;
             }
+            else
+            {
+                return false;
+            }
+        }
 
-            //var newhead = head;
-            //while (newhead != null) 
-            //{
-            //    Console.WriteLine(newhead.Value);
-            //    newhead = newhead.Next;
-            //}
+
+        public void InsertNodeAtFirst(int value) 
+        {
+            Node newNode = new Node();
+
+            if (IsNull()) 
+            {
+                head = newNode;
+                head.Value = value;
+                head.Next = null;
+            }
+            else
+            {
+                Node tempHead = head;
+                newNode.Value = value;
+                newNode.Next = tempHead;
+                head = newNode;
+            }
+        }
+
+
+        public void InsertNodeAtLast(int value)
+        {
+            if (IsNull()) 
+            {
+                Node newNode = new Node();
+                newNode.Value = value;
+                newNode.Next = null;
+                head = newNode;
+            }
+            else
+            {
+                Node newNode = new Node();
+                
+                Node lastFoundNode = head;
+                
+                while (lastFoundNode.Next != null)
+                {
+                    lastFoundNode = lastFoundNode.Next;
+                }
+
+                lastFoundNode.Next = newNode;
+                newNode.Value = value;
+                
+            }
+        }
+
+        public void Print()
+        {
+            var tempNode = head;
+            while (tempNode != null)
+            {
+                Console.WriteLine(tempNode.Value);
+                tempNode = tempNode.Next;
+            }
         }
     }
 }
