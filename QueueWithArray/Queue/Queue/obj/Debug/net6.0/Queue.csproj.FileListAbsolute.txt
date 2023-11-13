@@ -1,0 +1,15 @@
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.exe
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.deps.json
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.dll
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\bin\Debug\net6.0\ref\Queue.dll
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\bin\Debug\net6.0\Queue.pdb
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.dll
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\obj\Debug\net6.0\ref\Queue.dll
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.pdb
+C:\Erfan_ffa---\Projects\Exercises\Queue\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\bin\Debug\net6.0\ref\BinarySearch.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearch\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache

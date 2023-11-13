@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ref\ValidParentheses.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ref\ValidParentheses.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.genruntimeconfig.cache

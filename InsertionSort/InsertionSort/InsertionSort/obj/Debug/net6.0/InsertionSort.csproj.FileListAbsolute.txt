@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\bin\Debug\net6.0\ref\InsertionSort.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\obj\Debug\net6.0\ref\InsertionSort.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.genruntimeconfig.cache

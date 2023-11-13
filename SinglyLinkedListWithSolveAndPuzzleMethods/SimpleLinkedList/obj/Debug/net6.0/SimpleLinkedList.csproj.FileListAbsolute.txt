@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\bin\Debug\net6.0\SimpleLinkedList.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\bin\Debug\net6.0\SimpleLinkedList.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\bin\Debug\net6.0\SimpleLinkedList.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\bin\Debug\net6.0\SimpleLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\bin\Debug\net6.0\ref\SimpleLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\bin\Debug\net6.0\SimpleLinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\obj\Debug\net6.0\SimpleLinkedList.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\obj\Debug\net6.0\SimpleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\obj\Debug\net6.0\SimpleLinkedList.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\obj\Debug\net6.0\SimpleLinkedList.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\obj\Debug\net6.0\SimpleLinkedList.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\obj\Debug\net6.0\SimpleLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\obj\Debug\net6.0\ref\SimpleLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\obj\Debug\net6.0\SimpleLinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\SimpleLinkedList\SimpleLinkedList\obj\Debug\net6.0\SimpleLinkedList.genruntimeconfig.cache

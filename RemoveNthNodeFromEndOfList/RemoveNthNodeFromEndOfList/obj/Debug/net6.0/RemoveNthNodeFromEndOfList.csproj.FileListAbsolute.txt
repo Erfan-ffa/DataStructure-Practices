@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\bin\Debug\net6.0\RemoveNthNodeFromEndOfList.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\bin\Debug\net6.0\RemoveNthNodeFromEndOfList.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\bin\Debug\net6.0\RemoveNthNodeFromEndOfList.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\bin\Debug\net6.0\RemoveNthNodeFromEndOfList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\bin\Debug\net6.0\ref\RemoveNthNodeFromEndOfList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\bin\Debug\net6.0\RemoveNthNodeFromEndOfList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\obj\Debug\net6.0\RemoveNthNodeFromEndOfList.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\obj\Debug\net6.0\RemoveNthNodeFromEndOfList.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\obj\Debug\net6.0\RemoveNthNodeFromEndOfList.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\obj\Debug\net6.0\RemoveNthNodeFromEndOfList.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\obj\Debug\net6.0\RemoveNthNodeFromEndOfList.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\obj\Debug\net6.0\RemoveNthNodeFromEndOfList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\obj\Debug\net6.0\ref\RemoveNthNodeFromEndOfList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\obj\Debug\net6.0\RemoveNthNodeFromEndOfList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList\obj\Debug\net6.0\RemoveNthNodeFromEndOfList.genruntimeconfig.cache

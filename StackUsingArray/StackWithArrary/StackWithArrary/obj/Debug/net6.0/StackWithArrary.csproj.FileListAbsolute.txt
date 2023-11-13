@@ -1,0 +1,15 @@
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\bin\Debug\net6.0\StackWithArrary.exe
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\bin\Debug\net6.0\StackWithArrary.deps.json
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\bin\Debug\net6.0\StackWithArrary.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\bin\Debug\net6.0\StackWithArrary.dll
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\bin\Debug\net6.0\ref\StackWithArrary.dll
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\bin\Debug\net6.0\StackWithArrary.pdb
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\obj\Debug\net6.0\StackWithArrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\obj\Debug\net6.0\StackWithArrary.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\obj\Debug\net6.0\StackWithArrary.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\obj\Debug\net6.0\StackWithArrary.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\obj\Debug\net6.0\StackWithArrary.dll
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\obj\Debug\net6.0\ref\StackWithArrary.dll
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\obj\Debug\net6.0\StackWithArrary.pdb
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\obj\Debug\net6.0\StackWithArrary.genruntimeconfig.cache
+C:\Erfan_ffa---\Projects\Exercises\StackWithArrary\StackWithArrary\obj\Debug\net6.0\StackWithArrary.csproj.AssemblyReference.cache

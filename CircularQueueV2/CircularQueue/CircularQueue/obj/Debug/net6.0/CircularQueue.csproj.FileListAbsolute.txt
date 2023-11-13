@@ -1,0 +1,15 @@
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\bin\Debug\net6.0\CircularQueue.exe
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\bin\Debug\net6.0\CircularQueue.deps.json
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\bin\Debug\net6.0\CircularQueue.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\bin\Debug\net6.0\CircularQueue.dll
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\bin\Debug\net6.0\ref\CircularQueue.dll
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\bin\Debug\net6.0\CircularQueue.pdb
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\obj\Debug\net6.0\CircularQueue.csproj.AssemblyReference.cache
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\obj\Debug\net6.0\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\obj\Debug\net6.0\CircularQueue.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\obj\Debug\net6.0\CircularQueue.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\obj\Debug\net6.0\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\obj\Debug\net6.0\CircularQueue.dll
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\obj\Debug\net6.0\ref\CircularQueue.dll
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\obj\Debug\net6.0\CircularQueue.pdb
+C:\Erfan_ffa---\Projects\Exercises\CircularQueue\CircularQueue\obj\Debug\net6.0\CircularQueue.genruntimeconfig.cache

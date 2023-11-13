@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\bin\Debug\net6.0\ClimbStairs.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\bin\Debug\net6.0\ClimbStairs.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\bin\Debug\net6.0\ClimbStairs.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\bin\Debug\net6.0\ClimbStairs.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\bin\Debug\net6.0\ref\ClimbStairs.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\bin\Debug\net6.0\ClimbStairs.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\obj\Debug\net6.0\ClimbStairs.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\obj\Debug\net6.0\ClimbStairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\obj\Debug\net6.0\ClimbStairs.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\obj\Debug\net6.0\ClimbStairs.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\obj\Debug\net6.0\ClimbStairs.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\obj\Debug\net6.0\ClimbStairs.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\obj\Debug\net6.0\ref\ClimbStairs.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\obj\Debug\net6.0\ClimbStairs.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\ClimbStairs\ClimbStairs\obj\Debug\net6.0\ClimbStairs.genruntimeconfig.cache

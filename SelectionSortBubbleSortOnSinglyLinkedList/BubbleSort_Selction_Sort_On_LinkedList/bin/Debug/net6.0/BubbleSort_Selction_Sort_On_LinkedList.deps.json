@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BubbleSort_Selction_Sort_On_LinkedList/1.0.0": {
+        "runtime": {
+          "BubbleSort_Selction_Sort_On_LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BubbleSort_Selction_Sort_On_LinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

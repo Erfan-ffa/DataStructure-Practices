@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\ref\PalindromeNumber.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\ref\PalindromeNumber.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.genruntimeconfig.cache

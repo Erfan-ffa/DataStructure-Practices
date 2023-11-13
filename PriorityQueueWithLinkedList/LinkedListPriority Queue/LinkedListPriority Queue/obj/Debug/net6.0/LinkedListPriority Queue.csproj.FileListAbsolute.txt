@@ -1,0 +1,30 @@
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.exe
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.deps.json
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.dll
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\ref\LinkedListPriority Queue.dll
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.pdb
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.csproj.AssemblyReference.cache
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.dll
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\ref\LinkedListPriority Queue.dll
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.pdb
+C:\Erfan_ffa---\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.genruntimeconfig.cache
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.exe
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.deps.json
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.runtimeconfig.json
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.dll
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\ref\LinkedListPriority Queue.dll
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\bin\Debug\net6.0\LinkedListPriority Queue.pdb
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.csproj.AssemblyReference.cache
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.AssemblyInfoInputs.cache
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.AssemblyInfo.cs
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.csproj.CoreCompileInputs.cache
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.dll
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\ref\LinkedListPriority Queue.dll
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.pdb
+C:\Users\ERFAN FFA\Desktop\Er\Projects\Exercises\LinkedListPriority Queue\LinkedListPriority Queue\obj\Debug\net6.0\LinkedListPriority Queue.genruntimeconfig.cache

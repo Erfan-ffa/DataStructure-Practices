@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\bin\Debug\net6.0\DfsGraph.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\bin\Debug\net6.0\DfsGraph.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\bin\Debug\net6.0\DfsGraph.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\bin\Debug\net6.0\DfsGraph.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\bin\Debug\net6.0\ref\DfsGraph.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\bin\Debug\net6.0\DfsGraph.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\obj\Debug\net6.0\DfsGraph.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\obj\Debug\net6.0\DfsGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\obj\Debug\net6.0\DfsGraph.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\obj\Debug\net6.0\DfsGraph.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\obj\Debug\net6.0\DfsGraph.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\obj\Debug\net6.0\DfsGraph.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\obj\Debug\net6.0\ref\DfsGraph.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\obj\Debug\net6.0\DfsGraph.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\DfsGraph\DfsGraph\obj\Debug\net6.0\DfsGraph.genruntimeconfig.cache

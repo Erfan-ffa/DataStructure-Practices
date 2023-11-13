@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\bin\Debug\net6.0\Search-insert-position.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\bin\Debug\net6.0\Search-insert-position.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\bin\Debug\net6.0\Search-insert-position.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\bin\Debug\net6.0\Search-insert-position.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\bin\Debug\net6.0\ref\Search-insert-position.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\bin\Debug\net6.0\Search-insert-position.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\obj\Debug\net6.0\Search-insert-position.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\obj\Debug\net6.0\Search-insert-position.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\obj\Debug\net6.0\Search-insert-position.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\obj\Debug\net6.0\Search-insert-position.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\obj\Debug\net6.0\Search-insert-position.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\obj\Debug\net6.0\Search-insert-position.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\obj\Debug\net6.0\ref\Search-insert-position.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\obj\Debug\net6.0\Search-insert-position.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Search-insert-position\Search-insert-position\obj\Debug\net6.0\Search-insert-position.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\bin\Debug\net6.0\ref\BubbleSort.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache

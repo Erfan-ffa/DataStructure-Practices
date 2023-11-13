@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\bin\Debug\net6.0\Graph_AdjacencyMatrix.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\bin\Debug\net6.0\Graph_AdjacencyMatrix.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\bin\Debug\net6.0\Graph_AdjacencyMatrix.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\bin\Debug\net6.0\Graph_AdjacencyMatrix.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\bin\Debug\net6.0\ref\Graph_AdjacencyMatrix.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\bin\Debug\net6.0\Graph_AdjacencyMatrix.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\obj\Debug\net6.0\Graph_AdjacencyMatrix.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\obj\Debug\net6.0\Graph_AdjacencyMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\obj\Debug\net6.0\Graph_AdjacencyMatrix.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\obj\Debug\net6.0\Graph_AdjacencyMatrix.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\obj\Debug\net6.0\Graph_AdjacencyMatrix.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\obj\Debug\net6.0\Graph_AdjacencyMatrix.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\obj\Debug\net6.0\ref\Graph_AdjacencyMatrix.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\obj\Debug\net6.0\Graph_AdjacencyMatrix.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\Graph_AdjacencyMatrix\Graph_AdjacencyMatrix\obj\Debug\net6.0\Graph_AdjacencyMatrix.genruntimeconfig.cache

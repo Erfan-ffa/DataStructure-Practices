@@ -1,0 +1,15 @@
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\bin\Debug\net6.0\PriorityQueueWithShifting.exe
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\bin\Debug\net6.0\PriorityQueueWithShifting.deps.json
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\bin\Debug\net6.0\PriorityQueueWithShifting.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\bin\Debug\net6.0\PriorityQueueWithShifting.dll
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\bin\Debug\net6.0\ref\PriorityQueueWithShifting.dll
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\bin\Debug\net6.0\PriorityQueueWithShifting.pdb
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\obj\Debug\net6.0\PriorityQueueWithShifting.csproj.AssemblyReference.cache
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\obj\Debug\net6.0\PriorityQueueWithShifting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\obj\Debug\net6.0\PriorityQueueWithShifting.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\obj\Debug\net6.0\PriorityQueueWithShifting.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\obj\Debug\net6.0\PriorityQueueWithShifting.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\obj\Debug\net6.0\PriorityQueueWithShifting.dll
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\obj\Debug\net6.0\ref\PriorityQueueWithShifting.dll
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\obj\Debug\net6.0\PriorityQueueWithShifting.pdb
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueueWithShifting\PriorityQueueWithShifting\obj\Debug\net6.0\PriorityQueueWithShifting.genruntimeconfig.cache

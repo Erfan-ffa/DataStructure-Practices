@@ -1,0 +1,15 @@
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.exe
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.deps.json
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.dll
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\bin\Debug\net6.0\ref\PriorityQueue.dll
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\bin\Debug\net6.0\PriorityQueue.pdb
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.csproj.AssemblyReference.cache
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.dll
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\obj\Debug\net6.0\ref\PriorityQueue.dll
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.pdb
+C:\Erfan_ffa---\Projects\Exercises\PriorityQueue\PriorityQueue\obj\Debug\net6.0\PriorityQueue.genruntimeconfig.cache

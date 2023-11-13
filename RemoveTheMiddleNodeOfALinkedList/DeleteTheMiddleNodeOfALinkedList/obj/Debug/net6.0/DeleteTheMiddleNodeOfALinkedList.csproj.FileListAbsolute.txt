@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\bin\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\bin\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\bin\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\bin\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\bin\Debug\net6.0\ref\DeleteTheMiddleNodeOfALinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\bin\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\obj\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\obj\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\obj\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\obj\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\obj\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\obj\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\obj\Debug\net6.0\ref\DeleteTheMiddleNodeOfALinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\obj\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\obj\Debug\net6.0\DeleteTheMiddleNodeOfALinkedList.genruntimeconfig.cache

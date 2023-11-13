@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\bin\Debug\net6.0\CircularLinkedList.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\bin\Debug\net6.0\CircularLinkedList.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\bin\Debug\net6.0\CircularLinkedList.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\bin\Debug\net6.0\CircularLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\bin\Debug\net6.0\ref\CircularLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\bin\Debug\net6.0\CircularLinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\obj\Debug\net6.0\CircularLinkedList.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\obj\Debug\net6.0\CircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\obj\Debug\net6.0\CircularLinkedList.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\obj\Debug\net6.0\CircularLinkedList.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\obj\Debug\net6.0\CircularLinkedList.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\obj\Debug\net6.0\CircularLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\obj\Debug\net6.0\ref\CircularLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\obj\Debug\net6.0\CircularLinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\CircularLinkedList\CircularLinkedList\obj\Debug\net6.0\CircularLinkedList.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\bin\Debug\net6.0\SwappingNodesInALinkedList.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\bin\Debug\net6.0\SwappingNodesInALinkedList.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\bin\Debug\net6.0\SwappingNodesInALinkedList.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\bin\Debug\net6.0\SwappingNodesInALinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\bin\Debug\net6.0\ref\SwappingNodesInALinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\bin\Debug\net6.0\SwappingNodesInALinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\obj\Debug\net6.0\SwappingNodesInALinkedList.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\obj\Debug\net6.0\SwappingNodesInALinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\obj\Debug\net6.0\SwappingNodesInALinkedList.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\obj\Debug\net6.0\SwappingNodesInALinkedList.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\obj\Debug\net6.0\SwappingNodesInALinkedList.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\obj\Debug\net6.0\SwappingNodesInALinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\obj\Debug\net6.0\ref\SwappingNodesInALinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\obj\Debug\net6.0\SwappingNodesInALinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\SwappingNodesInALinkedList\SwappingNodesInALinkedList\obj\Debug\net6.0\SwappingNodesInALinkedList.genruntimeconfig.cache

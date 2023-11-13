@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\bin\Debug\net6.0\Add_Two_Number.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\bin\Debug\net6.0\Add_Two_Number.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\bin\Debug\net6.0\Add_Two_Number.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\bin\Debug\net6.0\Add_Two_Number.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\bin\Debug\net6.0\ref\Add_Two_Number.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\bin\Debug\net6.0\Add_Two_Number.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\obj\Debug\net6.0\Add_Two_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\obj\Debug\net6.0\Add_Two_Number.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\obj\Debug\net6.0\Add_Two_Number.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\obj\Debug\net6.0\Add_Two_Number.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\obj\Debug\net6.0\Add_Two_Number.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\obj\Debug\net6.0\ref\Add_Two_Number.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\obj\Debug\net6.0\Add_Two_Number.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\obj\Debug\net6.0\Add_Two_Number.genruntimeconfig.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\Add_Two_Number\Add_Two_Number\obj\Debug\net6.0\Add_Two_Number.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.exe
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.deps.json
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.dll
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\ref\QueueWithLinkedList.dll
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\bin\Debug\net6.0\QueueWithLinkedList.pdb
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.csproj.AssemblyReference.cache
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.dll
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\ref\QueueWithLinkedList.dll
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.pdb
+C:\Erfan_ffa---\Projects\Exercises\QueueWithLinkedList\QueueWithLinkedList\obj\Debug\net6.0\QueueWithLinkedList.genruntimeconfig.cache

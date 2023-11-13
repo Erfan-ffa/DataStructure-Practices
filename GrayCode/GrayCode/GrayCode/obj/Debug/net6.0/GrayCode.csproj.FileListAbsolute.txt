@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\bin\Debug\net6.0\ref\GrayCode.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\obj\Debug\net6.0\ref\GrayCode.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.genruntimeconfig.cache

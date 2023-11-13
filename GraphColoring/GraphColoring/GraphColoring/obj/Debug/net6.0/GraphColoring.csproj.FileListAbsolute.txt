@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.exe
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.deps.json
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.dll
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\ref\GraphColoring.dll
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\bin\Debug\net6.0\GraphColoring.pdb
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.dll
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\ref\GraphColoring.dll
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.pdb
+C:\AliBaba\ErfanFFA\Projects\GraphColoring\GraphColoring\obj\Debug\net6.0\GraphColoring.genruntimeconfig.cache

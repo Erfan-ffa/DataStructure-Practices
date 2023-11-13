@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\ref\RemoveDuplicatesFromSortedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\bin\Debug\net6.0\RemoveDuplicatesFromSortedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\ref\RemoveDuplicatesFromSortedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\LeetCode --\RemoveDuplicatesFromSortedList\RemoveDuplicatesFromSortedList\obj\Debug\net6.0\RemoveDuplicatesFromSortedList.genruntimeconfig.cache

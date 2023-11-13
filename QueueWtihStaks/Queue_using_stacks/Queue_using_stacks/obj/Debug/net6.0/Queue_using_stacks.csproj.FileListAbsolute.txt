@@ -1,0 +1,15 @@
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\bin\Debug\net6.0\Queue_using_stacks.exe
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\bin\Debug\net6.0\Queue_using_stacks.deps.json
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\bin\Debug\net6.0\Queue_using_stacks.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\bin\Debug\net6.0\Queue_using_stacks.dll
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\bin\Debug\net6.0\ref\Queue_using_stacks.dll
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\bin\Debug\net6.0\Queue_using_stacks.pdb
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\obj\Debug\net6.0\Queue_using_stacks.csproj.AssemblyReference.cache
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\obj\Debug\net6.0\Queue_using_stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\obj\Debug\net6.0\Queue_using_stacks.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\obj\Debug\net6.0\Queue_using_stacks.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\obj\Debug\net6.0\Queue_using_stacks.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\obj\Debug\net6.0\Queue_using_stacks.dll
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\obj\Debug\net6.0\ref\Queue_using_stacks.dll
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\obj\Debug\net6.0\Queue_using_stacks.pdb
+C:\Erfan_ffa---\Projects\Exercises\Queue_using_stacks\Queue_using_stacks\obj\Debug\net6.0\Queue_using_stacks.genruntimeconfig.cache

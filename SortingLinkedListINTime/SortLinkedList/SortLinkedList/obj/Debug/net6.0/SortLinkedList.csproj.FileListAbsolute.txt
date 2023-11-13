@@ -1,0 +1,15 @@
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\bin\Debug\net6.0\SortLinkedList.exe
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\bin\Debug\net6.0\SortLinkedList.deps.json
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\bin\Debug\net6.0\SortLinkedList.runtimeconfig.json
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\bin\Debug\net6.0\SortLinkedList.dll
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\bin\Debug\net6.0\ref\SortLinkedList.dll
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\bin\Debug\net6.0\SortLinkedList.pdb
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\obj\Debug\net6.0\SortLinkedList.csproj.AssemblyReference.cache
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\obj\Debug\net6.0\SortLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\obj\Debug\net6.0\SortLinkedList.AssemblyInfoInputs.cache
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\obj\Debug\net6.0\SortLinkedList.AssemblyInfo.cs
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\obj\Debug\net6.0\SortLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\obj\Debug\net6.0\SortLinkedList.dll
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\obj\Debug\net6.0\ref\SortLinkedList.dll
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\obj\Debug\net6.0\SortLinkedList.pdb
+C:\Users\ERFAN FFA\Desktop\SortLinkedList\SortLinkedList\obj\Debug\net6.0\SortLinkedList.genruntimeconfig.cache

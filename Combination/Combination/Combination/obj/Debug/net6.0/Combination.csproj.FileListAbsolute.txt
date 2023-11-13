@@ -1,0 +1,14 @@
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\bin\Debug\net6.0\Combination.exe
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\bin\Debug\net6.0\Combination.deps.json
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\bin\Debug\net6.0\Combination.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\bin\Debug\net6.0\Combination.dll
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\bin\Debug\net6.0\ref\Combination.dll
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\bin\Debug\net6.0\Combination.pdb
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\obj\Debug\net6.0\Combination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\obj\Debug\net6.0\Combination.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\obj\Debug\net6.0\Combination.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\obj\Debug\net6.0\Combination.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\obj\Debug\net6.0\Combination.dll
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\obj\Debug\net6.0\ref\Combination.dll
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\obj\Debug\net6.0\Combination.pdb
+C:\Erfan_ffa---\Projects\Exercises\Combination\Combination\obj\Debug\net6.0\Combination.genruntimeconfig.cache

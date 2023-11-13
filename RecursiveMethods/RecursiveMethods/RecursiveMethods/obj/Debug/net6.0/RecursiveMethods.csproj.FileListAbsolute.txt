@@ -1,0 +1,15 @@
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\bin\Debug\net6.0\RecursiveMethods.exe
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\bin\Debug\net6.0\RecursiveMethods.deps.json
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\bin\Debug\net6.0\RecursiveMethods.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\bin\Debug\net6.0\RecursiveMethods.dll
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\bin\Debug\net6.0\ref\RecursiveMethods.dll
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\bin\Debug\net6.0\RecursiveMethods.pdb
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\obj\Debug\net6.0\RecursiveMethods.csproj.AssemblyReference.cache
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\obj\Debug\net6.0\RecursiveMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\obj\Debug\net6.0\RecursiveMethods.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\obj\Debug\net6.0\RecursiveMethods.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\obj\Debug\net6.0\RecursiveMethods.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\obj\Debug\net6.0\RecursiveMethods.dll
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\obj\Debug\net6.0\ref\RecursiveMethods.dll
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\obj\Debug\net6.0\RecursiveMethods.pdb
+C:\Erfan_ffa---\Projects\Exercises\RecursiveMethods\RecursiveMethods\obj\Debug\net6.0\RecursiveMethods.genruntimeconfig.cache

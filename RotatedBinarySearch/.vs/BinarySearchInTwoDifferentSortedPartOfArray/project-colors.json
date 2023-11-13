@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f9acff1-f28d-4874-a942-43944ae2c062": {
+      "ProjectGuid": "9f9acff1-f28d-4874-a942-43944ae2c062",
+      "DisplayName": "BinarySearchInTwoDifferentSortedPartOfArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

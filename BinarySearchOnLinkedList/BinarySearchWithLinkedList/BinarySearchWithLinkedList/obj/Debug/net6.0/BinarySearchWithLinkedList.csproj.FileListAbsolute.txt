@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\obj\Debug\net6.0\BinarySearchWithLinkedList.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\obj\Debug\net6.0\BinarySearchWithLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\obj\Debug\net6.0\BinarySearchWithLinkedList.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\obj\Debug\net6.0\BinarySearchWithLinkedList.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\obj\Debug\net6.0\BinarySearchWithLinkedList.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\bin\Debug\net6.0\BinarySearchWithLinkedList.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\bin\Debug\net6.0\BinarySearchWithLinkedList.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\bin\Debug\net6.0\BinarySearchWithLinkedList.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\bin\Debug\net6.0\BinarySearchWithLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\bin\Debug\net6.0\ref\BinarySearchWithLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\bin\Debug\net6.0\BinarySearchWithLinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\obj\Debug\net6.0\BinarySearchWithLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\obj\Debug\net6.0\ref\BinarySearchWithLinkedList.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\obj\Debug\net6.0\BinarySearchWithLinkedList.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\BinarySearchWithLinkedList\BinarySearchWithLinkedList\obj\Debug\net6.0\BinarySearchWithLinkedList.genruntimeconfig.cache
